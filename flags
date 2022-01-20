@@ -1,0 +1,4 @@
+-std=c++17 -O0 -Wall -Wextra -Wunreachable-code -Wzero-as-null-pointer-constant -Wnon-virtual-dtor -Wunreachable-code
+ -Wredundant-decls -Wfloat-equal  -Werror
+ -Wconversion -Wcast-align -Wunused -Wold-style-cast -Wpointer-arith -Wcast-qual -Wno-missing-braces -Wpedantic
+ -Wextra  -Werror=format-security
